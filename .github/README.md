@@ -1,6 +1,6 @@
 # Welcome to Technology Library
 
-Welcome to the **Technology Library**, a community-driven repository that aims to build a comprehensive knowledge base of technology topics. Whether you’re a seasoned security expert or just starting your journey, this library offers valuable resources across a wide range of domains.
+Welcome to the **Technology Library**—a community-driven repository dedicated to building a comprehensive knowledge base across the spectrum of technology topics. Whether you’re a seasoned practitioner or just beginning your exploration, this library provides a wealth of resources covering a multitude of domains.
 
 ## 🌍 Project Overview
 
